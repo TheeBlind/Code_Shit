@@ -2,8 +2,8 @@
 #SubDomain Enumeration Script
 #You need Curl
 
-ListaDomini="/opt/tested/subDomainsBrute/sub1.txt"
-WordlistSottodomini="/opt/tested/subDomainsBrute/dict/subnames_full.txt"
+ListaDomini="DomainList something.* "
+WordlistSottodomini="Wordlist For SubDomain Brute (i will post mine)"
 
 readarray -t a <$ListaDomini
 readarray -t b <$WordlistSottodomini
