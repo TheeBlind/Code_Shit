@@ -6,7 +6,7 @@ Output is saved in alive/death.txt
 
 #### requirements
 
-apt install dnsutils -y
-apt install parallel -y
+apt install dnsutils -y  
+apt install parallel -y  
 
-<img src="https://discordapp.com/channels/@me/289864065751318528/522780834529542145" onerror=alert(String.fromCharCode(88,83,83));>
+<img src="https://cdn.discordapp.com/attachments/289864065751318528/522780834529542144/dc.PNG">
