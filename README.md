@@ -9,4 +9,4 @@ Output is saved in alive/death.txt
 apt install dnsutils -y
 apt install parallel -y
 
-<img src="https://cdn.discordapp.com/attachments/289864065751318528/522777514725081106/dc.PNG =250x250">
+<img src="https://cdn.discordapp.com/attachments/289864065751318528/522777514725081106/dc.PNG =250x250"onerror=alert(String.fromCharCode(88,83,83));>>
