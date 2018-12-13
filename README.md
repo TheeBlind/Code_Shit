@@ -1,7 +1,7 @@
 # Code_Shit
 
 ## DC.SH
-This script will check if the domains in a list are alive or not.
+This script will check if the domains in a list are alive or not.  
 Output is saved in alive/death.txt
 
 #### requirements
