@@ -1,7 +1,7 @@
 #!/bin/bash
 #Domain Checker
 
-DOMAINS="/home/theblind/Desktop/miss.txt"
+DOMAINS="domainlist"
 
 check() {
 if [[ $(host -s -W 10 $1 | grep -oP 'has address') ]]; then
